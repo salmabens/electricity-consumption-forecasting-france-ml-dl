@@ -46,6 +46,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 data_path = "/content/drive/My Drive/Data/"
+```
 
 ### 📂 **Structure du Projet**
 📂 electricity-consumption-forecasting-france-ml-dl  
