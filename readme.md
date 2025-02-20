@@ -1,4 +1,4 @@
-# 🔥 Prévision de la Consommation Électrique en France avec ML & DL  
+# 🔋 Prévision de la Consommation Électrique en France avec ML & DL  
 
 ## 📖 Présentation  
 Ce projet vise à **prévoir la consommation d'électricité en France** en utilisant des techniques de **Machine Learning (ML) et Deep Learning (DL)**. Grâce aux données historiques issues de la **plateforme Open Data de RTE**, nous développons des modèles prédictifs pour optimiser la gestion des ressources énergétiques et améliorer la précision des prévisions.  
