@@ -31,7 +31,7 @@ Nous testons et comparons plusieurs approches de prévision :
 
 ## 🚀 Comment Exécuter le Projet  
 
-### 1️⃣ **Exécuter les Notebooks sur Google Colab**  
+### 1️⃣ **Exécuter le Notebook sur Google Colab**  
 Les fichiers étant volumineux, nous recommandons d'utiliser **Google Colab**.  
 
 ### 2️⃣ **Ajouter les Données sur Google Drive**  
