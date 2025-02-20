@@ -49,11 +49,12 @@ data_path = "/content/drive/My Drive/Data/"
 ```
 
 ### 📂 **Structure du Projet**
-📂 electricity-consumption-forecasting-france-ml-dl  
-│── 📁 Data                # Fichiers de données (à ajouter sur Google Drive)  
-│── 📁 Notebook           # Notebook Jupyter pour l'analyse et la modélisation  
-│── 📁 Modeles sauvegardes          # Modèles entraînés et sauvegardes
-│── .gitattributes         # Configuration Git LFS pour gérer les fichiers volumineux 
-│── README.md              # Documentation du projet  
-│── éCO2mix - Description des fichiers des données en puissance.pdf       # Description des fichiers des données en puissance
+📂 `electricity-consumption-forecasting-france-ml-dl`  
+│── 📁 `Data` ➜ Fichiers de données (à ajouter sur Google Drive)  
+│── 📁 `Notebook` ➜ Notebook Jupyter pour l’analyse et la modélisation  
+│── 📁 `Modeles sauvegardes` ➜ Modèles entraînés et sauvegardes  
+│── `.gitattributes` ➜ Configuration Git LFS pour gérer les fichiers volumineux  
+│── `README.md` ➜ Documentation du projet  
+│── `éCO2mix - Description des fichiers des données en puissance.pdf` ➜ Description des jeux de données utilisés  
+
 
